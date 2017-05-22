@@ -1,6 +1,12 @@
 ## N-blog
 
-使用 Express + MongoDB 搭建多人博客  
+使用 Express + MongoDB 搭建多人博客
+
+## 开发环境
+
+- Node.js: `6.9.1`
+- MongoDB: `3.2.10`
+- Express: `4.14.0`
 
 ## 目录
 
@@ -82,6 +88,10 @@
         - [pm2](https://github.com/nswbmw/N-blog/blob/master/book/4.15%20%E9%83%A8%E7%BD%B2.md#4152-pm2)
         - [部署到 Heroku](https://github.com/nswbmw/N-blog/blob/master/book/4.15%20%E9%83%A8%E7%BD%B2.md#4152-部署到-heroku)
         - [部署到 UCloud](https://github.com/nswbmw/N-blog/blob/master/book/4.15%20%E9%83%A8%E7%BD%B2.md#4153-部署到-ucloud)
+
+## GitBook
+
+[GitBook 在线阅读](https://maninboat.gitbooks.io/n-blog/content/)
 
 ## 捐赠
 
